@@ -13,6 +13,5 @@ Python · SQL · Power BI · Tableau · Excel · Data Analysis · Machine Learni
 - Google — Data Analytics
 
 ## 📫 Connect
-LinkedIn: https://linkedin.com/in/abhishek-hosamani  
-Portfolio: https://your-portfolio-link (or coming soon)  
-Email: abhishek.your@email.com
+LinkedIn: https://www.linkedin.com/in/abhishek-hosamani/   
+Email: abhishekhosamani522@gmail.com
